@@ -4,3 +4,4 @@
 - Tilretning på server
 - Test 2
 - Commit til branch 2
+- Commit 2
