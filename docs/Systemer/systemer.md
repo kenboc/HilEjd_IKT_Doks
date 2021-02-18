@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Systemer
-parent: Dokumentation
-nav_order: 1
+nav_order: 3
+permalink: /docs/Systemer
 ---
 
 # Child of test

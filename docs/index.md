@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dokumentation
-nav_order: 99
+nav_order: 1
+permalink: /docs
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
