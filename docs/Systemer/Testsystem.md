@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Systemer
+title: Testsystem
 nav_order: 3
-permalink: /systemer
-has_children: true
+permalink: /systemer/testsystem
+parent: Systemer
 ---
 
 # Child of test
