@@ -2,7 +2,7 @@
 layout: default
 title: Systemer
 nav_order: 3
-permalink: /docs/Systemer
+permalink: /systemer
 ---
 
 # Child of test

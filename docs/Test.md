@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Dokumentation
+title: Test
 nav_order: 1
-permalink: /
+permalink: /test
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
