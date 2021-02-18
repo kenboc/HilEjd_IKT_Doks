@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Dokumentation
-nav_order: 1 
-permalink: /
+title: Aben
+permalink: /aben
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
