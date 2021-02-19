@@ -9,7 +9,7 @@ permalink: /
 
 {: .fs-9 }
 
-Just the Docs2 gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Just the Docs2eee gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
 ---
