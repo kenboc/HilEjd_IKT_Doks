@@ -15,3 +15,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # [](#header-1)Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.Her!!
+
+$$
+2=sqrt(8)^2
+$$
+
+ff
+
+> Lidt i en quote
